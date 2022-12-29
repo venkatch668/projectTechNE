@@ -14,6 +14,9 @@
 	<packaging>war</packaging>
 	<name>projectTechNE3</name>
 	<description>techne</description>
+	<properties>
+		<java.version>17</java.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
